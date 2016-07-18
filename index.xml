@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Diesel engine blog</title>
+    <link>http://amecky.github.io/</link>
+    <description>Recent content on Diesel engine blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jul 2016 11:46:07 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://amecky.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>intro</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/intro/</link>
+      <link>http://amecky.github.io/post/intro/</link>
       <pubDate>Mon, 18 Jul 2016 11:46:07 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/intro/</guid>
+      <guid>http://amecky.github.io/post/intro/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
