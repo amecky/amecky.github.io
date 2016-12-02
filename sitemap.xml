@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://amecky.github.io/</loc>
-    <lastmod>2016-07-18T11:46:07+02:00</lastmod>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-12-02T10:06:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amecky.github.io/post/intro/</loc>
-    <lastmod>2016-07-18T11:46:07+02:00</lastmod>
+    <loc>http://replace-this-with-your-hugo-site.com/post/my_first_post/</loc>
+    <lastmod>2016-12-02T10:06:22+01:00</lastmod>
   </url>
   
 </urlset>

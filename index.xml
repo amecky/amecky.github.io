@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diesel engine blog</title>
-    <link>http://amecky.github.io/</link>
-    <description>Recent content on Diesel engine blog</description>
+    <title>My Blog</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2016 11:46:07 +0200</lastBuildDate>
-    <atom:link href="http://amecky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2016 10:06:22 +0100</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>intro</title>
-      <link>http://amecky.github.io/post/intro/</link>
-      <pubDate>Mon, 18 Jul 2016 11:46:07 +0200</pubDate>
+      <title>my_first_post</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/my_first_post/</link>
+      <pubDate>Fri, 02 Dec 2016 10:06:22 +0100</pubDate>
       
-      <guid>http://amecky.github.io/post/intro/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
-
-&lt;p&gt;This might be the start into a glory future.&lt;/p&gt;
+      <guid>http://replace-this-with-your-hugo-site.com/post/my_first_post/</guid>
+      <description>&lt;p&gt;That is definitly the coolest thing I have ever seen.
+But it does not show up&lt;/p&gt;
 </description>
     </item>
     
